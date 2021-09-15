@@ -13,7 +13,7 @@ Download the project, then open the HTML document in browser to see the eye move
 Se volveria más interesante si los PacMan tambien revotaran al chocar con otro PacMan y cambiaran el color.
 
 ## Screenshot
-
+![Eyes]https://github.com/gabrielamoldes/Eyes.movement/blob/main/Screenshot%202021-09-15%20182137.png
 
 
 ### LICENCIA INFORMACION:
