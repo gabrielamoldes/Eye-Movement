@@ -1,10 +1,11 @@
 # Eyes.movement
 
 ## DESCRIPCION DEL PROYECTO:
-Consiste en dos ojos cuyas pupilas siguen los movimientos que el mouse hace a su alrededor. 
+Utilizando CSS se crearon dos ojos que se encuentran abiertos en el centro de la pantalla, cuyas pupilas se mueven siguiendo los movimientos que el mouse hace a su alrededor. 
 
 ## COMO SE EJECUTA:
 Abrir el siguiente link en el navegador.
+https://gabrielamoldes.github.io/Eyes.movement/
 
 Download the project, then open the HTML document in browser to see the eye movements in action.
 
